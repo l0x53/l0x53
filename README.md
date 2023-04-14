@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://cdn.discordapp.com/attachments/951456122517205022/1086138916689690635/8e.gif">
+  <img width="460" height="300" src="https://cdn.discordapp.com/attachments/951456121628016661/1084778339627180094/VY0hANt.gif">
 </p>
 <h3 align="center"> Profile Visitors</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d7-m&label=Profile%20views&color=0e75b6&style=flat" alt="d7-m" /> </p>
